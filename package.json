@@ -1,0 +1,13 @@
+{ 
+"name": "crudsinfotech-nodeapp",
+"version": "1.0.0",
+"main": "main.js",
+"scripts": {
+"start": "node main.js"},
+"repository": {
+"type": "git",
+"url": "https://github.com/AnastasiiaSb/schulung" },
+"keywords": [ "node", "docker", "dockerfile"],
+"author": "crudsinfotechng@gmail.com",
+"license": "ISC"
+}
